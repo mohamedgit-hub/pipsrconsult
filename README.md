@@ -1,2 +1,0 @@
-# pipsrconsult
-Pipeline SR Consult
